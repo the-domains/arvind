@@ -1,0 +1,23 @@
+name: Arvind
+favicon: null
+layout_spectrum: 0.6745133837684989
+typography_spectrum: 0.8849528040736914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2000941678415984
+  lightness: 0.41834552539512515
+  saturation: 0.7617497479077429
+  rhythmicContrast: 0.6957532246597111
+purpose: []
